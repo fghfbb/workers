@@ -9851,7 +9851,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://cdn.glitch.global/31b556b9-4313-4d9d-9619-ee4546696f71/detailed-video.mp4?v=1732333110082",
+                                        src: "https://firebasestorage.googleapis.com/v0/b/quizapp-11326.appspot.com/o/948568sampletry.mp4?alt=media&token=33f919b8-c5c9-4814-8e63-275d48652977",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
